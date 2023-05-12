@@ -1,7 +1,7 @@
 # docker-elk
 ELK stack in Docker
 
-$ git clone https://github.com/Selvamraju007/Docker-ELK.git
+$ git clone https://github.com/Selvamraju007/ELK-Docker.git
 
 $ cd docker-elk
 
